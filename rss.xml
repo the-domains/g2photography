@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[G2Photography]]></title>
         <description><![CDATA[G2Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/g2photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 09:30:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 09:58:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/g2photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fde4f281-636a-4774-8535-51687c61ab4d.jpg">]]></description>
+            <link>https://thegrid.ai/g2photography/85d91194-c844-4b2c-b00a-2d239472fdcc/index.html</link>
+            <guid isPermaLink="false">85d91194-c844-4b2c-b00a-2d239472fdcc</guid>
+            <pubDate>Fri, 18 Mar 2016 09:57:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lord Bishop]]></title>
             <description><![CDATA[<article><h1>Lord Bishop</h1><p>Lord Bishop close-up with the trusty Fujifilm 10-24 mm Lens. Lit by a Nissin i40 on TTL in a two meter umbrella.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d87c5497b7f6e6651fc88f3cf184d3f46c2966b4.jpg"></article>]]></description>
-            <link>undefinedlord-bishop/index.html</link>
+            <link>https://thegrid.ai/g2photography/lord-bishop/index.html</link>
             <guid isPermaLink="false">d3b11ba7-440b-4c66-b3cc-04a96b3d96db</guid>
             <pubDate>Fri, 18 Mar 2016 09:30:30 GMT</pubDate>
         </item>
