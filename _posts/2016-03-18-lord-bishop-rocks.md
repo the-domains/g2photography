@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lord Bishop Rocks for sure is the most exciting and musically gifted Rock trio of the 21st century. They are mixing their brand of 70s influenced Hardrock, Funk, Blues, Jazz, Reggae and Punk – meshing it into a sound they call Hendrixian Motör Funk.'
-datePublished: '2016-03-18T11:36:08.909Z'
-dateModified: '2016-03-18T11:35:43.355Z'
+datePublished: '2016-03-18T11:37:27.596Z'
+dateModified: '2016-03-18T11:36:14.404Z'
 title: Lord Bishop Rocks
 author: []
 sourcePath: _posts/2016-03-18-lord-bishop-rocks.md
