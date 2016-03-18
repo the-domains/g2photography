@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[G2Photography]]></title>
+        <description><![CDATA[G2Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 09:30:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lord Bishop]]></title>
+            <description><![CDATA[<article><h1>Lord Bishop</h1><p>Lord Bishop close-up with the trusty Fujifilm 10-24 mm Lens. Lit by a Nissin i40 on TTL in a two meter umbrella.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d87c5497b7f6e6651fc88f3cf184d3f46c2966b4.jpg"></article>]]></description>
+            <link>undefinedlord-bishop/index.html</link>
+            <guid isPermaLink="false">d3b11ba7-440b-4c66-b3cc-04a96b3d96db</guid>
+            <pubDate>Fri, 18 Mar 2016 09:30:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
