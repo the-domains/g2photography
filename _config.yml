@@ -1,0 +1,28 @@
+name: G2Photography
+favicon: null
+layout_spectrum: 0.24148139590397477
+typography_spectrum: 0.7806061853189021
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.17394946655258536
+  lightness: 0.2616701568476856
+  saturation: 0.7364506388548762
+  rhythmicContrast: 0.26899833092465997
+purpose: []
